@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeckoWrapper</string>
+    <string name="title_activity_main_compose">MainComposeActivity</string>
+</resources>
